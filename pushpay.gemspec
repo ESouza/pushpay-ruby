@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = 'pushpay'
+  spec.name          = 'pushpay-ruby'
   spec.version       = "0.2.0"
   spec.authors       = ['Eduardo Souza']
   spec.email         = ['eduardo@eduardosouza.com']
