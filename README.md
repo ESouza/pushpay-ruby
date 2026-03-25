@@ -1,6 +1,4 @@
-[![Gem Version](https://badge.fury.io/rb/pushpay-ruby.svg?icon=si%3Arubygems)](https://badge.fury.io/rb/pushpay-ruby)
-
-# PushPay Ruby
+# PushPay Ruby  [![Gem Version](https://badge.fury.io/rb/pushpay-ruby.svg?icon=si%3Arubygems)](https://badge.fury.io/rb/pushpay-ruby)
 
 Ruby gem for integrating with the [PushPay](https://pushpay.com) payment processing API. Supports payments, recurring payments, anticipated payments, funds, merchants, organizations, settlements, batches, and webhooks.
 
