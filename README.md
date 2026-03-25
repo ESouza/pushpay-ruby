@@ -7,7 +7,7 @@ Ruby gem for integrating with the [PushPay](https://pushpay.com) payment process
 Add to your Gemfile:
 
 ```ruby
-gem 'pushpay'
+gem 'pushpay-ruby'
 ```
 
 Then run:
@@ -19,7 +19,7 @@ bundle install
 Or install directly:
 
 ```bash
-gem install pushpay
+gem install pushpay-ruby
 ```
 
 ## Configuration
